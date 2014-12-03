@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/BO/Services/ModuleService.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/test/BO/ModuleTest.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/test/BO/StudentServiceTest.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/DAL/DaFactory.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/DAL/Interfaces/IDaLokaal.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/DAL/Interfaces/IDaModule.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/test/BO/ModuleServiceTest.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/DAL/Interfaces/IDaStudent.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/BO/Services/StudentService.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/test/DAL/DaStudentTest.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/test/DAL/DaDocentTest.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/UI/StudentInschrijven.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/BO/Interfaces/IStudentService.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/DAL/DaLokaal.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/test/DAL/DaModuleTest.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/BO/Docent.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/DAL/DaDocent.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/test/DAL/DaLokaalTest.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/Infrastructure/DAL/DABase.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/BO/Student.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/DAL/DaStudent.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/DAL/Interfaces/IDaDocent.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/startup/StudentRegistratieSysteem.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/BO/Module.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/BO/Interfaces/IModuleService.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/Infrastructure/BO/IPersistable.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/BO/Lokaal.java</file>
+            <file>file:/C:/Users/11640/Documents/NetBeansProjects/StudentRegistratieSysteem/src/DAL/DaModule.java</file>
+        </group>
+    </open-files>
+</project-private>
